@@ -1,0 +1,10 @@
+{
+  "name": "p-requeue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "p-queue": "^2.3.0",
+    "p-retry": "^1.0.0",
+  }
+}
