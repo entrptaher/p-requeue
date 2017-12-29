@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "p-queue": "^2.3.0",
-    "p-retry": "^1.0.0",
+    "p-retry": "^1.0.0"
   }
 }
